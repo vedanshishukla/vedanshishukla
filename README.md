@@ -1,40 +1,94 @@
-## Hi there 👋
+<h1 align="center" style="color: #0077ff; text-shadow: 2px 2px 5px #87CEFA;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vedanshi+Shukla!;Welcome+to+My+Profile!" />
+</h1>
 
-Certainly! Here's a creative README file template for your GitHub account:
+# 👩‍💻 About Me
+I'm **Vedanshi Shukla**, a passionate tech enthusiast and aspiring software engineer from India. I enjoy working on innovative projects and leveraging technology to create impactful solutions.
 
----
-
-# Hey there, I'm Vedanshi Shukla! 👋
-
-Welcome to my corner of GitHub! I'm passionate about blending creativity with technology, and here you'll find a mix of my projects ranging from AI to software development and beyond.
-
-## 🔭 Current Projects
-
-### Math Gestures
-An intuitive app that solves math problems drawn by hand using advanced AI recognition
-
-### Anti-Spoofing/Liveliness Detection
-Detecting fake vs. real live video streams using advanced computer vision techniques.
-
-## 🌱 What I'm Learning
-
-Currently, I'm exploring:
-- Advanced machine learning models
-- Front-end development with React
-- How technology intersects with fashion and design
-
-## 💬 Let's Connect
-
-- LinkedIn: [Vedanshi Shukla](www.linkedin.com/in/vedanshi-shukla10)
-
-## 📫 Reach Out
-
-Have a project idea or just want to chat about tech and creativity? Feel free to reach out—I'm always up for a good conversation!
-
-## ⚡ Fun Fact
-
-I love experimenting with new recipes in my spare time—it's like coding but for food!
+- 🔭 Currently working on: **AI-Powered Image Synthesis (ImagiGen)**
+- 🌱 Learning: Advanced AI, GANs, and Business Analytics
+- 💡 Interests: Data Science, Generative AI, and Creative Designing
+- 💬 Ask me about: Python, AI/ML, GANs, or Social Media Strategies
+- 📧 Reach me: [vedanshi.shukla@example.com](mailto:vedanshi.shukla@example.com)
+- 🎨 Fun Fact: I combine tech with creativity to design unique social media content
 
 ---
 
-Feel free to personalize and add more sections based on your projects and interests. Happy coding! 🚀
+## 🛠️ My Skills
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### **AI/ML & Data Science**
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?style=flat-square&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-E34F26?style=flat-square&logo=ai&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-4CAF50?style=flat-square&logo=data-science&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-0530AD?style=flat-square&logo=ibm&logoColor=white)
+
+### **Tools & Frameworks**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
+
+### **Creative Design**
+- Social Media Posts
+- Invitations & Promotions
+- Captions & Hashtags
+
+---
+
+## 🌟 Featured Projects
+
+### **1. ImagiGen – AI-Powered Image Synthesis**
+- **Description:** Developed a GAN-based system to generate realistic and artistic images.
+- **Key Technologies:** GANs, Python, TensorFlow
+- **Goal:** Push the boundaries of AI-generated visuals.
+
+### **2. Anti-Spoofing Liveliness Detection**
+- **Description:** Analyzes live video footage to differentiate between real and fake.
+- **Key Technologies:** OpenCV, Machine Learning
+
+### **3. Quiz App** (Java Development Internship at Innobyte Services)
+- **Description:** Created a quiz application during my internship.
+- **Key Technologies:** Java, Android Development
+
+### **4. Draw-to-Solve Math App**
+- **Description:** Allows users to draw or write math problems, solved with Gemini chatbot integration.
+- **Key Technologies:** Python, AI, and Gemini API
+
+### **5. Social Media Post Designs**
+- **Description:** Designed engaging Instagram and promotional posts for diverse industries.
+
+---
+
+## 📊 GitHub Stats
+![Vedanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedanshi-Shukla&show_icons=true&theme=radical)
+![Vedanshi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vedanshi-Shukla&theme=radical)
+![Vedanshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedanshi-Shukla&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![Vedanshi's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vedanshi-Shukla&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedanshi-shukla)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedanshi-Shukla)
+
+---
+
+## 🎨 Fun Animations & Interests
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=50&lines=Tech+Innovator+💻;AI+Enthusiast+🤖;Creative+Designer+🎨;Always+Exploring+🚀" />
+</p>
+
