@@ -9,7 +9,7 @@ I'm **Vedanshi Shukla**, a passionate tech enthusiast and aspiring software engi
 - 🌱 Learning: Advanced AI, GANs, and Business Analytics
 - 💡 Interests: Data Science, Generative AI, and Creative Designing
 - 💬 Ask me about: Python, AI/ML, GANs, or Social Media Strategies
-- 📧 Reach me: [vedanshi.shukla@example.com](mailto:vedanshishukla102@gmail.com)
+- 📧 Reach me: [vedanshishukla102@gmail.com](mailto:vedanshishukla102@gmail.com)
 - 🎨 Fun Fact: I combine tech with creativity to design unique social media content
 
 ---
