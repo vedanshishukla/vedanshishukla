@@ -41,20 +41,15 @@ I'm **Vedanshi Shukla**, a passionate tech enthusiast and aspiring software engi
 
 ## 🌟 Featured Projects
 
-### **1. ImagiGen – AI-Powered Image Synthesis**
-- **Description:** Developed a GAN-based system to generate realistic and artistic images.
-- **Key Technologies:** GANs, Python, TensorFlow
-- **Goal:** Push the boundaries of AI-generated visuals.
-
-### **2. Quiz App** (Java Development Internship at Innobyte Services)
+### **1. Quiz App** (Java Development Internship at Innobyte Services)
 - **Description:** Created a quiz application during my internship.
 - **Key Technologies:** Java, Android Development
 
-### **3. Draw-to-Solve Math App**
+### **2. Draw-to-Solve Math App**
 - **Description:** Allows users to draw or write math problems, solved with Gemini chatbot integration.
 - **Key Technologies:** Python, AI, and Gemini API
 
-### **4. Social Media Post Designs**
+### **3. Social Media Post Designs**
 - **Description:** Designed engaging Instagram and promotional posts for diverse industries.
 
 ---
